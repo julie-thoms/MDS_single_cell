@@ -1,0 +1,19 @@
+﻿,,,,,,,,
+Number of families,1,,,,,,,
+Number of comparisons per family,3,,,,,,,
+Alpha,0.05,,,,,,,
+,,,,,,,,
+Tukey's multiple comparisons test,Mean diff.,95.00% CI of diff.,Below threshold?,Summary,Adjusted P Value,,,
+  Vehicle vs. 1uM AZA,0.01123,-0.09643 to 0.1189,No,ns,0.9456,A-B,,
+  Vehicle vs. 3uM AZA,0.1555,0.04781 to 0.2631,Yes,*,0.0105,A-C,,
+  1uM AZA vs. 3uM AZA,0.1442,0.03658 to 0.2519,Yes,*,0.0148,B-C,,
+,,,,,,,,
+Test details,Mean 1,Mean 2,Mean diff.,SE of diff.,n1,n2,q,DF
+  Vehicle vs. 1uM AZA,0.6280,0.6167,0.01123,0.03509,3,3,0.4526,6
+  Vehicle vs. 3uM AZA,0.6280,0.4725,0.1555,0.03509,3,3,6.266,6
+  1uM AZA vs. 3uM AZA,0.6167,0.4725,0.1442,0.03509,3,3,5.814,6
+,,,,,,,,
+Compact letter display,,,,,,,,
+  Vehicle,A,,,,,,,
+  1uM AZA,A,,,,,,,
+  3uM AZA,B,,,,,,,

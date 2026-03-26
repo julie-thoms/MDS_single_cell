@@ -1,0 +1,46 @@
+﻿,,,,,,,,
+Number of families,1,,,,,,,
+Number of comparisons per family,15,,,,,,,
+Alpha,0.05,,,,,,,
+,,,,,,,,
+Tukey's multiple comparisons test,Mean diff.,95.00% CI of diff.,Below threshold?,Summary,Adjusted P Value,,,
+  Vehicle vs. 1uM AZA,17.04,2.093 to 31.98,Yes,*,0.0226,A-B,,
+  Vehicle vs. 3uM AZA,52.92,37.98 to 67.86,Yes,****,<0.0001,A-C,,
+  Vehicle vs. 10nM Rapa,19.48,4.539 to 34.43,Yes,**,0.0090,A-D,,
+  Vehicle vs. 1uM AZA + 10nM Rapa,43.02,28.08 to 57.97,Yes,****,<0.0001,A-E,,
+  Vehicle vs. 3uM AZA + 10nM Rapa,66.28,51.34 to 81.22,Yes,****,<0.0001,A-F,,
+  1uM AZA vs. 3uM AZA,35.88,20.94 to 50.83,Yes,****,<0.0001,B-C,,
+  1uM AZA vs. 10nM Rapa,2.447,-12.50 to 17.39,No,ns,0.9926,B-D,,
+  1uM AZA vs. 1uM AZA + 10nM Rapa,25.99,11.04 to 40.93,Yes,***,0.0009,B-E,,
+  1uM AZA vs. 3uM AZA + 10nM Rapa,49.24,34.30 to 64.19,Yes,****,<0.0001,B-F,,
+  3uM AZA vs. 10nM Rapa,-33.44,-48.38 to -18.49,Yes,****,<0.0001,C-D,,
+  3uM AZA vs. 1uM AZA + 10nM Rapa,-9.897,-24.84 to 5.047,No,ns,0.2948,C-E,,
+  3uM AZA vs. 3uM AZA + 10nM Rapa,13.36,-1.584 to 28.30,No,ns,0.0901,C-F,,
+  10nM Rapa vs. 1uM AZA + 10nM Rapa,23.54,8.596 to 38.48,Yes,**,0.0020,D-E,,
+  10nM Rapa vs. 3uM AZA + 10nM Rapa,46.80,31.85 to 61.74,Yes,****,<0.0001,D-F,,
+  1uM AZA + 10nM Rapa vs. 3uM AZA + 10nM Rapa,23.26,8.313 to 38.20,Yes,**,0.0022,E-F,,
+,,,,,,,,
+Test details,Mean 1,Mean 2,Mean diff.,SE of diff.,n1,n2,q,DF
+  Vehicle vs. 1uM AZA,100.0,82.97,17.04,4.449,3,3,5.415,12
+  Vehicle vs. 3uM AZA,100.0,47.08,52.92,4.449,3,3,16.82,12
+  Vehicle vs. 10nM Rapa,100.0,80.52,19.48,4.449,3,3,6.193,12
+  Vehicle vs. 1uM AZA + 10nM Rapa,100.0,56.98,43.02,4.449,3,3,13.68,12
+  Vehicle vs. 3uM AZA + 10nM Rapa,100.0,33.72,66.28,4.449,3,3,21.07,12
+  1uM AZA vs. 3uM AZA,82.97,47.08,35.88,4.449,3,3,11.41,12
+  1uM AZA vs. 10nM Rapa,82.97,80.52,2.447,4.449,3,3,0.7777,12
+  1uM AZA vs. 1uM AZA + 10nM Rapa,82.97,56.98,25.99,4.449,3,3,8.260,12
+  1uM AZA vs. 3uM AZA + 10nM Rapa,82.97,33.72,49.24,4.449,3,3,15.65,12
+  3uM AZA vs. 10nM Rapa,47.08,80.52,-33.44,4.449,3,3,10.63,12
+  3uM AZA vs. 1uM AZA + 10nM Rapa,47.08,56.98,-9.897,4.449,3,3,3.146,12
+  3uM AZA vs. 3uM AZA + 10nM Rapa,47.08,33.72,13.36,4.449,3,3,4.247,12
+  10nM Rapa vs. 1uM AZA + 10nM Rapa,80.52,56.98,23.54,4.449,3,3,7.483,12
+  10nM Rapa vs. 3uM AZA + 10nM Rapa,80.52,33.72,46.80,4.449,3,3,14.88,12
+  1uM AZA + 10nM Rapa vs. 3uM AZA + 10nM Rapa,56.98,33.72,23.26,4.449,3,3,7.393,12
+,,,,,,,,
+Compact letter display,,,,,,,,
+  Vehicle,A,,,,,,,
+  1uM AZA,B,,,,,,,
+  10nM Rapa,B,,,,,,,
+  1uM AZA + 10nM Rapa,C,,,,,,,
+  3uM AZA,C D,,,,,,,
+  3uM AZA + 10nM Rapa,D,,,,,,,
