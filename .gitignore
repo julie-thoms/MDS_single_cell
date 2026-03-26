@@ -4,7 +4,13 @@
 
 Figures/*
 
-#Data folder - h5mu available from GEO
+
+#Code folders to be de-identified
+
+Pre-processing_code/*
+Analysis_code/*
+
+#Data folder - available from GEO, too big for github
 
 Data/*.h5mu 
 Data/*.h5ad
@@ -12,6 +18,7 @@ Data/*.h5ad
 
 #Notebook checkpoints
 
-*/.ipynb_checkpoints
+.ipynb_checkpoints/
 
 #Other files
+bulk_replace_ids.py
