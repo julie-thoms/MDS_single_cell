@@ -5,10 +5,12 @@
 Figures/*
 
 
-#Code folders to be de-identified
+#Code folders still to be de-identified
 
 Pre-processing_code/*
 Analysis_code/*
+Pre-processing_code_rep/*
+Analysis_code_rep/*
 
 #Data folder - available from GEO, too big for github
 
@@ -22,3 +24,4 @@ Data/*.h5ad
 
 #Other files
 bulk_replace_ids.py
+replacement_log.csv
